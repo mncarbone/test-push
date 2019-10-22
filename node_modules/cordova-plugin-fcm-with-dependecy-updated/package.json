@@ -1,0 +1,63 @@
+{
+  "_from": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git",
+  "_id": "cordova-plugin-fcm-with-dependecy-updated@4.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-fcm-with-dependecy-updated",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated",
+    "rawSpec": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated",
+    "saveSpec": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git",
+    "fetchSpec": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git#e213a63c9f671ff0d2032d3fab1afb79e7abd218",
+  "_spec": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated",
+  "_where": "/media/archivos/martin/Documentos/Desarrollo/Pruebas/Android/Push/test2",
+  "author": {
+    "name": "André Augusto Tissot"
+  },
+  "bugs": {
+    "url": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated/issues"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "Cordova FCM Push Plugin",
+  "deprecated": false,
+  "description": "Google Firebase Cloud Messaging Cordova Push Plugin fork with dependecy updated",
+  "engines": [],
+  "englishdoc": "",
+  "homepage": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated#readme",
+  "issue": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "notifications",
+    "push",
+    "firebase",
+    "fcm",
+    "ios",
+    "android",
+    "cordova"
+  ],
+  "license": "MIT",
+  "main": "www/FCMPlugin.js",
+  "name": "cordova-plugin-fcm-with-dependecy-updated",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "repo": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git"
+  },
+  "typings": "src/FCMPlugin.d.ts",
+  "version": "4.0.0"
+}

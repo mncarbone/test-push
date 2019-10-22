@@ -1,0 +1,4 @@
+#Tue Oct 22 17:09:02 ART 2019
+base.0=/media/archivos/martin/Documentos/Desarrollo/Pruebas/Android/Push/test2/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

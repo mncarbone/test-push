@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">785113836640-g6hftqp2faipn3c89m95jdc6qrjnjbe8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mnc-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">785113836640</string>
+    <string name="google_api_key" translatable="false">AIzaSyBzupmqjJBR7P4UrKEsX7PpedSmpXhQBUk</string>
+    <string name="google_app_id" translatable="false">1:785113836640:android:4b4e19097e7135207b6705</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBzupmqjJBR7P4UrKEsX7PpedSmpXhQBUk</string>
+    <string name="google_storage_bucket" translatable="false">mnc-app.appspot.com</string>
+    <string name="project_id" translatable="false">mnc-app</string>
+</resources>
